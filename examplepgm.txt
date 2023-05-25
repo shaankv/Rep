@@ -8,3 +8,5 @@ if(ch!=' '&&ch!='\t)
  sb.append(ch);
 System.out.println(ch);
 
+Example program 
+
